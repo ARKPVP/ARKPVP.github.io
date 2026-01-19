@@ -10,13 +10,13 @@ const profileData = {
 const contactLinks = [
     {
         title: "GitHub",
-        url: "https://github.com",
+        url: "https://github.com/ARKPVP",
         icon: "github"
     },
     {
-        title: "Email",
-        url: "mailto:daran@example.com",
-        icon: "email"
+        title: "YouTube",
+        url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
+        icon: "youtube"
     },
     {
         title: "LinkedIn",
